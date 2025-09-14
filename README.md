@@ -12,7 +12,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
     alt="Microsoft Certified: Azure Fundamentals" 
     width="80px" 
     style="padding-right:5px;" 
-    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
+    src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
   />
 </a>
 
