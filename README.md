@@ -5,6 +5,7 @@
 I am a highly adaptable software developer with a strong passion for continuous learning. Equipped with a solid foundation in various programming languages, I excel at quickly grasping new technologies and adapting to different development environments. My versatile skill set enables me to efficiently tackle diverse projects and deliver high-quality solutions. With a relentless drive for growth, I thrive in dynamic and fast-paced settings where I can continuously expand my knowledge and contribute to impact outcomes.
 
 # 📑 Certifications
+
 <img align="left" alt="Microsoft Certified Fundamentals Badge" width="30px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"/>
 
 # 🧰 Languages and Tools
