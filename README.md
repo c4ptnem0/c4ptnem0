@@ -9,7 +9,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaAguedan-9951/8AF48CF2978891B5?sharingId=8CD6056E46D0AE3C" target="_blank" rel="noopener noreferrer">
   <img 
     align="left" 
-    alt="Microsoft Certified Fundamentals Badge" 
+    alt="Microsoft Certified: Azure Fundamentals" 
     width="80px" 
     style="padding-right:5px;" 
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
@@ -19,7 +19,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
 <a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaAguedan-9951/8AF48CF2978891B5?sharingId=8CD6056E46D0AE3C" target="_blank" rel="noopener noreferrer">
   <img 
     align="left" 
-    alt="Microsoft Certified Fundamentals Badge" 
+    alt="Microsoft Certified: Azure AI Fundamentals" 
     width="80px" 
     style="padding-right:5px;" 
     src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
