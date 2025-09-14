@@ -6,7 +6,15 @@ I am a highly adaptable software developer with a strong passion for continuous 
 
 # 📑 Certifications
 
-<img align="left" alt="Microsoft Certified Fundamentals Badge" width="30px" style="padding-right:10px;" src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main"/>
+<a href="https://learn.microsoft.com/api/credentials/share/en-us/JoshuaAguedan-9951/8AF48CF2978891B5?sharingId=8CD6056E46D0AE3C" target="_blank" rel="noopener noreferrer">
+  <img 
+    align="left" 
+    alt="Microsoft Certified Fundamentals Badge" 
+    width="30px" 
+    style="padding-right:10px;" 
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
+  />
+</a>
 
 # 🧰 Languages and Tools
 
