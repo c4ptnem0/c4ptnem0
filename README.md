@@ -10,7 +10,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
   <img 
     align="left" 
     alt="Microsoft Certified Fundamentals Badge" 
-    width="30px" 
+    width="60px" 
     style="padding-right:10px;" 
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
   />
