@@ -11,7 +11,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
     align="left" 
     alt="Microsoft Certified Fundamentals Badge" 
     width="60px" 
-    style="padding-right:10px;" 
+    style="padding-right:5px;" 
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
   />
 </a>
@@ -21,7 +21,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
     align="left" 
     alt="Microsoft Certified Fundamentals Badge" 
     width="60px" 
-    style="padding-right:10px;" 
+    style="padding-right:5px;" 
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main" 
   />
 </a>
