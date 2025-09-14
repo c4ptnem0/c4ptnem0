@@ -11,7 +11,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
     align="left" 
     alt="Microsoft Certified: Azure Fundamentals" 
     width="80px" 
-    style="padding-right:5px;" 
+    style="padding-right:2px;" 
     src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" 
   />
 </a>
@@ -21,7 +21,7 @@ I am a highly adaptable software developer with a strong passion for continuous 
     align="left" 
     alt="Microsoft Certified: Azure AI Fundamentals" 
     width="80px" 
-    style="padding-right:5px;" 
+    style="padding-right:2px;" 
     src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" 
   />
 </a>
